@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "569126228626",
+    "project_id": "notificationusingfirebas-c07e0",
+    "storage_bucket": "notificationusingfirebas-c07e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569126228626:android:f7a697ca8fb9e14d058c4b",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "569126228626-uj2573rp7h99gl37obod44veu74947r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdv4lFQJ_4ImCCzfhrCCmeR-C_n6WqP7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "569126228626-uj2573rp7h99gl37obod44veu74947r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
